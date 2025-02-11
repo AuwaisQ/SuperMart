@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "1023155540439",
+    "project_id": "manalsoftech-6807e",
+    "storage_bucket": "manalsoftech-6807e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023155540439:android:d1b6088b2cae727ebffb92",
+        "android_client_info": {
+          "package_name": "com.manal.dmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023155540439-mt9aun8ou4ad8dsqfvv1pjcn62vjkak0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80EHlj24xSBxeu9lJBcREVDeCeVd5zR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023155540439-mt9aun8ou4ad8dsqfvv1pjcn62vjkak0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023155540439:android:2930a043ea63c5fbbffb92",
+        "android_client_info": {
+          "package_name": "com.manal.mm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1023155540439-brelp2b8jlr53errqo8n8g7ujog71pfp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.mm",
+            "certificate_hash": "47d85babd2a61f5135b94e5d3aa6712f652f72dc"
+          }
+        },
+        {
+          "client_id": "1023155540439-q409u9no6708bh8jseu383i7ps70g6hh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.mm",
+            "certificate_hash": "693ba7e0dd3840d9ab14aa4ac3d23dafc6663ad3"
+          }
+        },
+        {
+          "client_id": "1023155540439-rkg77l0oqmdq41og2tdq7io3rr6gd44h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.manal.mm",
+            "certificate_hash": "69268d94c028ac6ca66af8023c60ded8921663f5"
+          }
+        },
+        {
+          "client_id": "1023155540439-mt9aun8ou4ad8dsqfvv1pjcn62vjkak0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB80EHlj24xSBxeu9lJBcREVDeCeVd5zR0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1023155540439-mt9aun8ou4ad8dsqfvv1pjcn62vjkak0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
